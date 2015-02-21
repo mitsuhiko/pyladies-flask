@@ -1,2 +1,4 @@
 *.db
 *.pyc
+venv
+*.egg-info
